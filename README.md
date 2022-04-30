@@ -1,2 +1,2 @@
 # data-science
-Data Science work @ John Hopkins University
+Data Science work @ Duke University CS
